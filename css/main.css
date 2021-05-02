@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+.header p{
+    color:white;
+}
+    .header{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../image/img1.jpg);
+    background-size: cover;
+    }
+    .gallery{
+     height: 70vh;
+     width: 60%;
+     /* background-color: violet; */
+    }
+    .gallery.container{
+     width: 50%;
+     max-width: 1000px;
+    
+    }
+
+    .gg{
+margin-left: 250px;
+margin-top: 250px;
+margin-right: 300px;
+font-size: 40px;
+color: antiquewhite;
+font-family:'Courier New', Courier, monospace ;
+width: 400px;
+    }
+    .hh{
+        letter-spacing: 5px;
+font-size: 60px;
+font-family: fantasy;
+font-weight: bold;
+    }
+    .qq{
+font-family: monospace;
+font-size: 40px;
+opacity: 0.5;
+line-height: 1;
+    }
+    .ff{
+font-size:30px;
+font-family: serif;
+    }
+    .tt{
+        padding-top: 50px;
+        text-align: center;
+        color:white;
+    }
+    .gallery-container{
+        /* background-color: aqua; */
+height: 30%;
+width: 35%;
+align-items: center;
+margin: 200px 0 0 580px;
+    }
+    .lorem{
+margin-left: 45px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+opacity: 0.5;
+    }
+    .gly{ 
+display: flex; 
+justify-content: space-between;
+
+}
+
+.main{
+    display: flex;
+    }
+.cc{
+height:170px;
+width: 250px;
+margin-left: 15px;
+}
+.xx{
+height: 360px;
+}
+.vv{
+    height:170px;
+    width: 250px;
+    margin-left: 15px;
+    margin-top: 14px;
+}
+.baner{
+    height: 30vh;
+    width: 100%;
+background-image: url(../image/img5.jpg);
+background-size: cover;
+text-align: center;
+}
+.bb{
+    /* border: solid; */
+    color: white;
+    opacity: 0.7;
+}
+.nn{
+    font-family: fantasy;
+    color: white;
+    opacity: 0.7;
+}
+.img4{
+    margin-top: 80px;
+}
+.bb{
+    border: solid;
+    width: 10%;
+    text-align: center;
+    margin-left: 820px;
+}
+
+    
+
+    
